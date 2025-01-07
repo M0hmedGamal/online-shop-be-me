@@ -1,1 +1,1 @@
-this is bebo
+Web app for studying web security
